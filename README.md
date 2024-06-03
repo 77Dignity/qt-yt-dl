@@ -63,7 +63,7 @@ pyinstaller --onefile --windowed youtube_downloader.py
 ```
 The executable will be found in the dist directory.
 
-Known Issues
+## Known Issues
 
 The progress bar may not reflect post-processing tasks.
 Antivirus software may flag the generated executable as a false positive. To mitigate this, consider obtaining a digital signature from a trusted Certificate Authority.
