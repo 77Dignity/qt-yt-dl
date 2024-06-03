@@ -1,0 +1,39 @@
+# Compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Distribution/build directories
+/dist/
+/build/
+/.venv/
+
+# Environment variables file
+.env
+
+# Byte-compiled / optimized / DLL files
+*.py[cod]
+*$py.class
+*.so
+*.dylib
+
+# IDE-specific files
+.idea/
+.vscode/
+
+# macOS folder attributes
+.DS_Store
+
+# Compiled UI files
+*.ui.py
+
+# Log files
+*.log
+
+# Compiled resource files
+*.qrc.py
+
+# System or user-specific files
+.DS_Store
+Thumbs.db
