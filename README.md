@@ -21,8 +21,8 @@ A simple YouTube downloader GUI application built with PyQt and yt-dlp.
 
 1. Clone the repository:
 ```sh
-git clone https://github.com/yourusername/youtube-downloader.git
-cd youtube-downloader
+git clone https://github.com/77Dignity/qt-yt-dl.git
+cd qt-yt-dl
 ```
 
 2. Create and activate a virtual environment:
