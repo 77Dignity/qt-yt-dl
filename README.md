@@ -1,6 +1,7 @@
 # YouTube Downloader
 
 A simple YouTube downloader GUI application built with PyQt and yt-dlp.
+![Capture](https://github.com/77Dignity/qt-yt-dl/assets/107360076/9bd82b11-b9cf-46bf-b6e9-df38d0cd105e)
 
 ## Features
 
